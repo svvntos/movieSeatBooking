@@ -1,17 +1,21 @@
-
 # Title ![](https://img.shields.io/badge/License-MIT-important)
-Speed Typer Typing Game
+Movie Seat Booking App
 # Description
-Game to beat the clock by typing random words!
+This is app is to check what seats are avaiable for the theaters.
 
-Project Specifications
+App Specifications
 
-- Create game UI including a difficuly setting
-- Generate random word and place in DOM
-- Score increase after word is typed
-- Implement timer
-- Add certain amount of time after word is typed based on difficulty
-- Store difficulty setting in local storage
+- Display UI with movie select, screen, seats, legend & seat info
+- User can select a movie/price
+- User can select/deselect seats
+- User can not select occupied seats
+- Number of seats and price will update
+- Save seats, movie and price to local storage so that UI is still populated on refresh
+
+# Future
+
+- Connect an API that can fetch acutal data and results from local theaters.
+- Add a feature that when you are done selecting the seats and movie you can check out and pay.
 
 
 # Table of Contents
@@ -36,7 +40,7 @@ None
 
 # Usage
 <br />
-A game to play on your free time.
+Check what movies are out and check the avaiable seats.
 
 # Contributing
 <br />
