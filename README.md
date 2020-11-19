@@ -1,5 +1,5 @@
 # Title ![](https://img.shields.io/badge/License-MIT-important)
-Movie Seat Booking App
+Movie Seats Booking App
 # Description
 This is app is to check what seats are avaiable for the theaters.
 
